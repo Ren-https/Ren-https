@@ -1,4 +1,3 @@
-### Opa, eu sou a Alexis! 👻
 
 Full Stack Developer, Cyber Security & Game Development Enthusiastic<br>
 
