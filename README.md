@@ -40,9 +40,9 @@ Full Stack Developer, Cyber Security & Game Development Enthusiastic<br>
 
 ### Status 📊
 
-![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=alexis-exe&show_icons=true&theme=dark)
+![Ren GitHub stats](https://github-readme-stats.vercel.app/api?username=ren-https&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-exe&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ren-https&hide_progress=false)
 
 
 </div>
