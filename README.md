@@ -47,9 +47,8 @@ Full Stack Developer, Cyber Security & Game Development Enthusiastic<br>
 
 ### Status 📊
 
-![Ren GitHub stats](https://github-readme-stats.vercel.app/api?username=ren-https&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ren-https&hide_progress=false)
+![Ren GitHub stats](https://github-readme-stats.vercel.app/api?username=ren-https&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ren-https&layout=compact)
 
 <p align="center">
 <img align="center" width="488" height="305" alt="" autoplay loop src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDkwYWw3ZG50MGJscDY4bHRpb3lyaWhicjhxb3ViMHd1cTcxcGJtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/axnFGXT6MzvgY/giphy.gif"/>
