@@ -1,6 +1,9 @@
+<p align="center">
+<img align="" width="488" height="305" alt="" src="https://i.imgur.com/5sIHClX.gif[/img]"/>
 
+
+<h2 align="center">
 Full Stack Developer, Cyber Security & Game Development Enthusiastic<br>
-
 
 ### Skills 👾
 <div style="display: inline_block"><br/>
@@ -19,6 +22,7 @@ Full Stack Developer, Cyber Security & Game Development Enthusiastic<br>
 <img align="center"  alt="" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 </div>
+
 
 ### OS 💻
 
@@ -47,5 +51,7 @@ Full Stack Developer, Cyber Security & Game Development Enthusiastic<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ren-https&hide_progress=false)
 
+<p align="center">
+<img align="center" alt="" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDkwYWw3ZG50MGJscDY4bHRpb3lyaWhicjhxb3ViMHd1cTcxcGJtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/axnFGXT6MzvgY/giphy.gif"/>
 
 </div>
